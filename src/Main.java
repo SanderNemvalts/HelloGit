@@ -1,6 +1,6 @@
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 void main() {
-    IO.println(String.format("Goodbye Git!"));
+    IO.println(String.format("Tuu was also here"));
 
 }
